@@ -1,3 +1,8 @@
+[node-url]: https://nodejs.org/en
+[yarn-url]: https://classic.yarnpkg.com/
+[npm-url]:  https://www.npmjs.com/
+[expo-url]: https://expo.io/
+
 <p align="center">
    <img src="./.github/web-landing.png" alt="Proffy" width="650" height="310"/>
 </p>
