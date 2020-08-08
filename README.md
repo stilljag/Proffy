@@ -44,32 +44,48 @@ This project was made using the follow technologies:
 
 This project will be built and updated step by step
 
+### Getting Started 🚀
+
+#### Cloning
+
+```ps
+# Clone the repository using git
+$ git clone https://github.com/stilljag/proffy.git
+
+# Access the project folder
+$ cd proffy
+```
+
+#### Requirements
+* [Node.js][node-url]
+* [Yarn][yarn-url] or [npm][npm-url]
+* [Expo][expo-url]
+
+##### Web
+
+This project use third party dependencies that need to be installed, use that command to install all needed dependencies
+
+```ps
+$ cd web
+$ yarn install
+```
+
+```ps
+# Entering in web directory
+$ cd web
+
+# Installing depencies
+$ yarn add @types/react-router-dom -D
+$ yarn add axios
+```
 
 
 
-### Web Screenshot
+### Web Preview
 <div>
    
    <img src="./.github/web-list.png" width="400px">
 </div>
-
-### Mobile Screenshot
-<div>
-   <img src="./.github/mobile-splash.png" width="180">
-   <img src="./.github/mobile-onboarding.png" width="180">
-   <img src="./.github/mobile-home.png" width="180">
-   <img src="./.github/mobile-favoritos.png" width="180">
-</div>
-
-     
-
-
-
-
-
-
-
-
 
 
 # :closed_book: License
