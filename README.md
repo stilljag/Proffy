@@ -66,27 +66,33 @@ $ cd proffy
 * [Yarn][yarn-url] or [npm][npm-url]
 * [Expo][expo-url]
 
-##### Web
-
 This project use third party dependencies that need to be installed, use that command to install all needed dependencies
+
+# Server
+Install all needed dependencies
+```ps
+$ cd server
+$ yarn install
+```
+
+To start the Back Server run the command
+```ps
+$ yarn start
+```
+
+# Web
+Install all needed dependencies
 
 ```ps
 $ cd web
 $ yarn install
 ```
-
+To start the Web Server run the command
 ```ps
-# Entering in web directory
-$ cd web
-
-# Installing depencies
-$ yarn add @types/react-router-dom -D
-$ yarn add axios
+$ yarn start
 ```
 
-
-
-### Web Preview
+## Web Preview
 <div>
    
    <img src="./.github/web-list.png" width="400px">
