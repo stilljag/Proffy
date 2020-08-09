@@ -9,8 +9,8 @@ export async function up (knex:Knex){
       .onUpdate('CASCADE') //CASO SEJA ALTERADO O ID altera em todas tabelas
       .onDelete('CASCADE');//CASO SEJA DELETADO O ID altera em todas tabelas    
 
-      table.timestamp('created_at')
-      .defaultTo('now()')
+      table.timestamp('created_at', { useTz: true })
+      .defaultTo(knex.fn.now())      
       .notNullable();      
   });
 }
