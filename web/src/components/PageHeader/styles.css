@@ -1,4 +1,4 @@
-.page-header{
+.page-header{    
   display: flex;
   flex-direction: column;
   background-color: var(--color-primary);  
@@ -12,17 +12,6 @@
   align-items: center;
   color: var(--color-text-in-primary);
   padding: 1.6rem 0;  
-}
-
-#page-teacher-list  {
-  width: 100vw;
-  height: 100vh;    
-}
-
-.page-header{
-  display: flex;
-  flex-direction: column;
-  background-color: var(--color-primary);
 }
 
 .page-header .top-bar-container a {
@@ -49,6 +38,15 @@
   font:700 3.6rem Archivo;
   line-height: 4.2rem;
   color:var(--color-title-in-primary);
+}
+
+.page-header .header-content p{
+  max-width: 30rem;
+  font-size: 1.6rem;
+  line-height: 2.6rem;
+  color:var(--color-text-in-primary);
+  margin-top: 1.0rem;
+  
 }
 
 @media(min-width:700px){
