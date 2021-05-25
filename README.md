@@ -11,18 +11,18 @@
 
  <img alt="License" src="https://img.shields.io/badge/license-MIT-8257E5">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/stilljag/proffy?color=774DD6" >
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/william-ribeiro/proffy?color=774DD6" >
   
-  <a href="https://github.com/stilljag/proffy/commits/master">  
+  <a href="https://github.com/william-ribeiro/proffy/commits/master">  
   
   
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/stilljag/proffy?color=774DD6">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/william-ribeiro/proffy?color=774DD6">
   </a> 
 
   
  
-  <a href="https://github.com/stilljag/proffy/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/stilljag/proffy?color=8257E5&logo=github">
+  <a href="https://github.com/william-ribeiro/proffy/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/william-ribeiro/proffy?color=8257E5&logo=github">
   </a>
      <a href="https://www.linkedin.com/in/william-ribeiro-0b5ab911a/">
       <img alt="William Ribeiro" src="https://img.shields.io/badge/-WilliamRibeiro-8257e5?style=flat&logo=Linkedin&logoColor=white" />
@@ -55,7 +55,7 @@ This project will be built and updated step by step
 
 ```ps
 # Clone the repository using git
-$ git clone https://github.com/stilljag/proffy.git
+$ git clone https://github.com/william-ribeiro/proffy.git
 
 # Access the project folder
 $ cd proffy
@@ -103,7 +103,7 @@ $ yarn start
 
 Released in 2020 :closed_book: License
 
-Made with love by [William Ribeiro](https://github.com/stilljag) 🚀.
+Made with love by [William Ribeiro](https://github.com/william-ribeiro) 🚀.
 This project is under the [MIT license](./LICENSE).
 
 
